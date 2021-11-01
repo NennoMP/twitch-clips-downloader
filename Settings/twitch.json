@@ -1,0 +1,11 @@
+{   "twitch": {
+        "api": {
+            "url": "https://api.twitch.tv/helix/",
+            "client_id": "xxx",
+            "client_secret": "xxx",
+            "OAuth": "Bearer xxx"
+        },
+    "streamer": "xxx",
+    "first": "7"
+}
+}
