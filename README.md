@@ -1,4 +1,4 @@
-Automatic download of twitch clips. By modifying the `twitch_settings.json` file it's possibile to specify the streamer name and the number of top clips to retriever. 
+Automatic download of twitch clips. By modifying the `twitch_settings.json` file it's possibile to specify the streamer name and the number of top clips to retrieve. 
 
 ### Setup the environment
 
